@@ -1,2 +1,4 @@
 # first-repo
-none
+just typing to check
+<br>
+few terminal commands in working condition
